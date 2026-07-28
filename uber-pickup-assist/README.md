@@ -12,7 +12,7 @@ Designed an MVP that helps riders and drivers coordinate using landmark-based gu
 
 ##  Live MVP
 
-🔗 [uber-smart-pickup-assist](https://your-lovable-link.lovable.app)
+🔗 https://ubersmartpickupassist.lovable.app/
 
 ##  Case Study
 
