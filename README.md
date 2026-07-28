@@ -4,17 +4,14 @@ This repository contains product case studies, PRDs and growth projects complete
 
 ## Case Studies
 
-🚖 Uber Pickup Assist
+Uber Pickup Assist
 Improving rider-driver coordination.
 
-🛒 Zepto AOV Improvement
+Zepto AOV Improvement
 Increasing Average Order Value.
 
-💪 VitaFit
+VitaFit
 Improving user retention.
 
-🏢 Workforce Context Platform
+Workforce Context Platform
 3-year B2B SaaS strategy.
-
-🍔 Swiggy
-PLG interventions.
