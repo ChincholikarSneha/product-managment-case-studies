@@ -16,4 +16,4 @@ Designed an MVP that helps riders and drivers coordinate using landmark-based gu
 
 ##  Case Study
 
- [Uber Pickup Assist - Product Case Study.pdf](Uber%20Pickup%20Assist%20-%20Product%20Case%20Study.pdf)
+ [Uber Pickup Assist - Product Case Study.pdf](Uber_pickup_Assist_report.pdf)
