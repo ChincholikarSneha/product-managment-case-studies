@@ -1,1 +1,19 @@
+#  Uber Pickup Assist
 
+## Overview
+
+A product case study focused on reducing rider-driver pickup friction at crowded locations through improved navigation and coordination.
+
+###  Problem
+Users often struggle to locate their drivers at airports, malls, and railway stations, leading to delays, frustration, and ride cancellations.
+
+###  Proposed Solution
+Designed an MVP that helps riders and drivers coordinate using landmark-based guidance and improved pickup flows.
+
+##  Live MVP
+
+🔗 [uber-smart-pickup-assist](https://your-lovable-link.lovable.app)
+
+##  Case Study
+
+ [Uber Pickup Assist - Product Case Study.pdf](Uber%20Pickup%20Assist%20-%20Product%20Case%20Study.pdf)
