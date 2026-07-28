@@ -49,5 +49,3 @@ Context Simulations
 
 ### Year 3
 Organizational Intelligence Platform
-
-This phased roadmap enables organizations to gradually move from onboarding employees to building workforce intelligence that supports long-term business growth. :contentReference[oaicite:3]{index=3}
