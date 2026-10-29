@@ -83,32 +83,6 @@ Evaluate all assigned customers to assess AOV, order frequency, retention, and c
 - **30-day grocery AOV**
 - Proposed six-month target: **₹388 → ₹480**, approximately **23.7% growth**
 
-### Supporting Metrics
-
-- Planner adoption and draft approval
-- Average items per order
-- Repeat planner usage
-- Credit issuance and redemption
-
-### Guardrails
-
-- Order frequency and customer retention
-- Contribution after AI, credit, and fulfilment costs
-- Checkout time and abandonment
-- Refunds and substitutions
-
----
-
-## Design Principles
-
-- Customer approval before cart additions or substitutions
-- Respect stated budgets and dietary preferences
-- Transparent credit eligibility and expiry
-- No forced bundles, spend-pressure prompts, or automatic purchases
-- An uninterrupted path for urgent, small-basket orders
-
----
-
 ## Skills Demonstrated
 
 - User Research and Problem Framing
