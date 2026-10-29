@@ -49,3 +49,12 @@ Context Simulations
 
 ### Year 3
 Organizational Intelligence Platform
+
+## Skills Demonstrated
+
+- Problem Framing
+- Product Strategy
+- Feature Prioritization
+- Roadmap Planning
+- Prototyping
+- Success Metric Definition
