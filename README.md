@@ -4,14 +4,17 @@ This repository contains product case studies, PRDs and growth projects complete
 
 ## Case Studies
 
-Uber Pickup Assist
-Improving rider-driver coordination.
+### Uber Smart Pickup Assist
+Improving rider-driver coordination in complex pickup locations.
 
-Zepto AOV Improvement
-Increasing Average Order Value.
+### Zepto AOV Improvement
+Increasing basket value through an AI Planner and Flex Credits.
 
-VitaFit
-Improving user retention.
+### VitaFit Momentum
+Improving retention through personalized coaching and small fitness communities.
 
-Workforce Context Platform
-3-year B2B SaaS strategy.
+### Workforce Context Platform
+A 3-year B2B SaaS strategy connecting employee learning to business contribution.
+
+### Fireflies.ai — Commitment Closure
+Helping teams resolve meeting commitments through clear ownership and shared outcomes.
