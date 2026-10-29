@@ -2,6 +2,7 @@
 ### Helping Riders and Drivers Meet With Less Confusion
 
 **Primary Success Metric: Reduce pickup-related cancellations.**
+
 [View Prototype](https://ubersmartpickupassist.lovable.app/)
 
 > Independent product management case study and concept prototype. Proposed outcomes are not measured production results.
